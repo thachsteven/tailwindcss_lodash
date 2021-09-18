@@ -1,10 +1,10 @@
 import './App.css';
-import BaiTapTongHop from './BaiTapTongHop/BaiTapTongHop';
+import UniqLodash from './Lodash/UniqLodash';
 
 function App() {
   return (
     <div className="App">
-      <BaiTapTongHop />
+      <UniqLodash />
     </div>
   );
 }
